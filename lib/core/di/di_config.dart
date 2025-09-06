@@ -1,0 +1,11 @@
+export 'package:dio/dio.dart';
+export 'package:get_it/get_it.dart';
+export 'package:flutter_task/src/data/contract/auth_contract.dart';
+export 'package:flutter_task/src/data/repo/auth_repo.dart';
+export 'package:flutter_task/src/data/services/auth_service.dart';
+export 'package:flutter_task/src/presentation/bloc/auth/auth_bloc.dart';
+export 'package:flutter_secure_storage/flutter_secure_storage.dart';
+export 'package:flutter_task/core/storage/secure_storage.dart';
+export 'package:flutter_task/src/data/contract/chat_contract.dart';
+export 'package:flutter_task/src/data/repo/chat_repo.dart';
+export 'package:flutter_task/src/data/services/chat_service.dart';
